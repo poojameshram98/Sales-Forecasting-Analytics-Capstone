@@ -126,13 +126,6 @@ sales-forecasting-analytics-capstone/
 
 ---
 
-## 📎 Related Links
-
-- [Capstone Report PDF](#)
-- [Power BI Dashboard Demo](#)
-- [GitHub Repo](#)
-
----
 
 ## ✍️ Author
 
